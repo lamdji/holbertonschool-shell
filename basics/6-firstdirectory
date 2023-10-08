@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 755 /tmp/my-first-directory
+direct.sh  /tmp/my-first-directory
