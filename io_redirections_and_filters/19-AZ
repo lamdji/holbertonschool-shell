@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "la chasse est ouverte, sortez" | tr 'Ac' 'Ze'
+tr 'Ac' 'Ze'
