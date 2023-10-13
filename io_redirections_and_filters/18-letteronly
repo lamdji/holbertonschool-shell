@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v '^#' fichier.txt | grep -v '^[[:space:]]*$'
+grep '^[[:alpha:]]' /etc/ssh/sshd_config
